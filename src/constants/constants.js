@@ -30,7 +30,7 @@ export const projects = [
     title: 'Voice-powered Budget Tracker',
     description: "This is a Budget Tracker with the option to add categories, amount, date and type of transaction. Displays graphically your personal transactions and a total balance you have. The magic happens when you use the voice-powered functionality provided by Speechly API",
     image: '/images/4.jpg',
-    tags: ['React', 'ChatEngine', 'Firebase'],
+    tags: ['React', 'Speechly API', 'Context API', 'Material UI'],
     source: 'https://trackthebud.netlify.app/',
     visit: 'https://github.com/KevL97t/voice-powered-budget-tracker',
     id: 3,
